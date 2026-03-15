@@ -1,10 +1,10 @@
-# kaiokai for [Zed](https://zed.dev/)
+# Kaiokai for [Zed](https://zed.dev/)
 
 ![Screenshot](screenshot.png)
 
 ## About
 
-`kaiokai` is an unofficial theme collection for [Zed](https://zed.dev/) inspired by the [Monokai Pro](https://monokai.pro) color scheme.
+`Kaiokai` is an unofficial theme collection for [Zed](https://zed.dev/) inspired by the [Monokai Pro](https://monokai.pro) color scheme.
 
 This public repo ships only the Zed theme JSON and packaging needed to use the theme.
 
@@ -14,14 +14,17 @@ It started from the community `zed-monokai-pro-ce` effort, but the implementatio
 
 ## Included Themes
 
-- kaiokai
-- kaiokai (Filter Octagon)
-- kaiokai (Filter Ristretto)
-- kaiokai (Filter Spectrum)
-- kaiokai (Filter Machine)
-- kaiokai Light
-- kaiokai Light (Filter Sun)
-- kaiokai Classic
+Dark:
+- Kaiokai
+- Kaiokai Classic
+- Kaiokai (Filter Machine)
+- Kaiokai (Filter Octagon)
+- Kaiokai (Filter Ristretto)
+- Kaiokai (Filter Spectrum)
+
+Light:
+- Kaiokai Light
+- Kaiokai Light (Filter Sun)
 
 [Installation instructions](INSTALL.md)
 

@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "kaiokai",
+  "name": "Kaiokai",
   "author": "Kai Kozlov",
   "themes": [
     {
-      "name": "kaiokai",
+      "name": "Kaiokai",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -880,7 +880,7 @@
       }
     },
     {
-      "name": "kaiokai (Filter Octagon)",
+      "name": "Kaiokai (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -1756,7 +1756,7 @@
       }
     },
     {
-      "name": "kaiokai (Filter Ristretto)",
+      "name": "Kaiokai (Filter Ristretto)",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -2632,7 +2632,7 @@
       }
     },
     {
-      "name": "kaiokai (Filter Spectrum)",
+      "name": "Kaiokai (Filter Spectrum)",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -3508,7 +3508,7 @@
       }
     },
     {
-      "name": "kaiokai (Filter Machine)",
+      "name": "Kaiokai (Filter Machine)",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -4384,7 +4384,7 @@
       }
     },
     {
-      "name": "kaiokai Light",
+      "name": "Kaiokai Light",
       "appearance": "light",
       "style": {
         "accents": [
@@ -5260,7 +5260,7 @@
       }
     },
     {
-      "name": "kaiokai Light (Filter Sun)",
+      "name": "Kaiokai Light (Filter Sun)",
       "appearance": "light",
       "style": {
         "accents": [
@@ -6136,7 +6136,7 @@
       }
     },
     {
-      "name": "kaiokai Classic",
+      "name": "Kaiokai Classic",
       "appearance": "dark",
       "style": {
         "accents": [
