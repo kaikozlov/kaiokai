@@ -1,6 +1,6 @@
 id = "kaiokai"
 name = "Kaiokai for Zed"
-version = "1.0.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["Kai Kozlov"]
 description = "An unofficial Zed theme collection inspired by Monokai Pro"
